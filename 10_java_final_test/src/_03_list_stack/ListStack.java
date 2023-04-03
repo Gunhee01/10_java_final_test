@@ -9,7 +9,6 @@ interface Stack{
 	
 }
 
-
 class StackNode{
 	
 	char data;
